@@ -1,4 +1,4 @@
-# Algorithms-and-Data-Structures
+# Programming technologies
 - `T0` — coding guidelines test
 
 - `T2` — formatted input/output skills (iofmtguard)
